@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f312b4d-97f7-42e2-b989-55844b42014e" />
+<img width="259" height="259" alt="image" src="https://github.com/user-attachments/assets/9f312b4d-97f7-42e2-b989-55844b42014e" />
 
 # MaaNTE
   <p align="center">
